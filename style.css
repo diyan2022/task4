@@ -1,0 +1,141 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    max-width:1000px; 
+    margin: 0 auto; 
+    border: 3px solid #000;
+  
+                    }
+                    #user {
+                        height: 30px;
+                        width: 50opx;
+                        border: 1px solid rgb(0, 0, 0);
+                        background-color: rgb(62, 172, 208);
+                        font-size: medium;
+                        padding: 20px;
+                    }
+                     #myDiv1{
+                        padding: 20px;
+                        text-align: center;
+                        border: 1px solid #ccc;
+                        background-color: #33c9ff;
+                        font-size: small;
+                    }
+                    #myDiv2{
+                        padding: 20px;
+                        text-align: center;
+                        font-size: 18px;
+                        border: 1px solid #ccc;
+                        background-color: #33c9ff;
+                        font-size: small;
+                    }
+                    #myDiv3{
+                        padding: 20px;
+                        text-align: center;
+                        border: 1px solid #ccc;
+                        background-color: #33c9ff;
+                        font-size: small;
+                    }
+                    #myDiv4{
+                        padding: 20px;
+                        text-align: center;
+                        font-size: 18px;
+                        border: 1px solid #ccc;
+                        background-color: #33c9ff;
+                        font-size: small;
+                    }
+                    #myDiv5{
+                        padding: 20px;
+                        text-align: center;
+                        border: 1px solid #ccc;
+                        background-color: #33c9ff;
+                        font-size: small;
+                    }
+                    #myDiv6{
+                        padding: 20px;
+                        text-align: center;
+                        font-size: 18px;
+                        border: 1px solid #ccc;
+                        background-color: #33c9ff;
+                        font-size: small;
+                    }
+                    #myDiv7{
+                        padding: 20px;
+                        text-align: center;
+                        border: 1px solid #ccc;
+                        background-color: #33c9ff;
+                        font-size: small;
+                    }
+                    #myDiv8{
+                        padding: 20px;
+                        text-align: center;
+                        font-size: 18px;
+                        border: 1px solid #ccc;
+                        background-color: #33c9ff;
+                        font-size: small;
+                    }
+                    #myDiv9{
+                        padding: 20px;
+                        text-align: center;
+                        border: 1px solid #ccc;
+                        background-color: #33c9ff;
+                        font-size: small;
+                    }
+                    #myDiv10{
+                        padding: 20px;
+                        text-align: center;
+                        font-size: 18px;
+                        border: 1px solid #ccc;
+                        background-color: #33c9ff;
+                        font-size: small;
+                    }
+                    #myDiv11{
+                        padding: 20px;
+                        text-align: center;
+                        border: 1px solid #ccc;
+                        background-color: #33c9ff;
+                        font-size: small;
+                    }
+                    #myDiv12{
+                        padding: 20px;
+                        text-align: center;
+                        font-size: 18px;
+                        border: 1px solid #ccc;
+                        background-color: #33c9ff;
+                        font-size: small;
+                    }
+                    #myDiv13{
+                        padding: 20px;
+                        text-align: center;
+                        border: 1px solid #ccc;
+                        background-color: #33c9ff;
+                        font-size: small;
+                    }
+                    #myDiv14{
+                        padding: 20px;
+                        text-align: center;
+                        font-size: 18px;
+                        border: 1px solid #ccc;
+                        background-color: #33c9ff;
+                        font-size: small;
+                    }
+                    #myDiv15{
+                        padding: 20px;
+                        text-align: center;
+                        border: 1px solid #ccc;
+                        background-color: #33c9ff;
+                        font-size: small;
+                    }
+                    #myDiv16{
+                        padding: 20px;
+                        text-align: center;
+                        font-size: 18px;
+                        border: 1px solid #ccc;
+                        background-color: #33c9ff;
+                        font-size: small;
+                    }
+                
+                 
+                    
+                  
